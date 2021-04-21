@@ -1,0 +1,18 @@
+{
+    "firstName": "Walter",
+    "lastName": "White",
+    "age": "45",
+    "email": "chemistry@gmail.com",
+},
+{
+    "firstName": "Jon",
+    "lastName": "Snow",
+    "age": "35",
+    "email": "thewall@hotmail.com",
+},
+{
+    "firstName": "Jesse",
+    "lastName": "Pinkman",
+    "age": "30",
+    "email": "yoooo_mr_white@yahoo.com",
+}
